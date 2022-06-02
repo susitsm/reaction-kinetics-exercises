@@ -1,7 +1,7 @@
 # 2.1
 ### TODO
 # 2.2
-Could not find anything else besides [https://storage.googleapis.com/springer-extras/zip/2018/978-1-4939-8643-9.zip](package accompanying the book): 
+Could not find anything else besides [package accompanying the book](https://storage.googleapis.com/springer-extras/zip/2018/978-1-4939-8643-9.zip):
 
 # 2.3
  - [Descriptive reaction kinetics](https://demonstrations.wolfram.com/DescriptiveReactionKinetics/)
